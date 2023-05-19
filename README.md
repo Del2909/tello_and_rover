@@ -8,6 +8,8 @@ To see our project in action, watch our demo video on YouTube:
 
 [![Demo Video](http://img.youtube.com/vi/U3Ds2H3q8cQ/0.jpg)](http://www.youtube.com/watch?v=U3Ds2H3q8cQ "Project Demo")
 
+[demo video on YouTube](http://www.youtube.com/watch?v=U3Ds2H3q8cQ)
+
 
 ## Features
 
