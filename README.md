@@ -19,7 +19,7 @@ To see our project in action, watch our demo video on YouTube:
 
 ## Setup and Execution
 
-Follow the steps below to set up a virtual environment and install necessary dependencies:
+Follow the steps below to set up a virtual environment and install necessary dependencies(Note: most libraries used on Raspberry Pi 4 (4GB ram) so some libraries might not install for mac or windows):
 
 1. First, ensure that you have Python installed on your system. We recommend using Python 3.6 or above. You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
 
