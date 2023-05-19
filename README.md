@@ -69,7 +69,7 @@ After setting up the virtual environment and installing the necessary packages, 
     python3 main.py
     ```
 
-Remember to deactivate the virtual environment after you're done:
+Remember to deactivate the virtual environment after you're done.
 
 
 ## Critical Notes
