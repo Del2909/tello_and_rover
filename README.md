@@ -32,7 +32,7 @@ Follow the steps below to set up a virtual environment and install necessary dep
 3. Create a new virtual environment:
 
     ```
-    virtualenv venv
+    python -m venv roverenv 
     ```
 
 4. Activate the virtual environment:
@@ -46,7 +46,7 @@ Follow the steps below to set up a virtual environment and install necessary dep
     - On Unix or MacOS, run:
 
         ```
-        source venv/bin/activate
+        source roverenv/bin/activate
         ```
 
 5. Install the necessary packages using the `submissionrequirements.txt` file:
