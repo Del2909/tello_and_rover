@@ -1,6 +1,13 @@
 # Symbiotic Power and Data Sharing: DJI Tello Drone and Rover
 
-This project is designed to create a symbiotic relationship between a [DJI Tello Edu drone](https://store.dji.com/uk/product/tello-edu)(The Tello EDU has more access to the SDK (software Developers Kit), than the consumer range Tello, for more advanced coding features) and a custom rover. The Tello drone captures aerial images to compute an optimal path for the rover, while the rover not only performs path computation and completion tasks but also serves as a charging platform for the drone. This integration is made possible through the development of unique features like path computation and autonomous landing algorithms.
+This project is designed to create a symbiotic relationship between a [DJI Tello Edu drone](https://store.dji.com/uk/product/tello-edu)(The Tello EDU has more access to the SDK (software Developers Kit), than the consumer range Tello, for more advanced coding features) and a custom rover. The Tello drone captures aerial images to compute an optimal path for the rover, while the rover not only performs path computation and completion tasks but also serves as a charging platform for the drone. This integration is made possible through the development of unique features like path computation and autonomous landing algorithms. 
+
+## Demo Video
+
+To see our project in action, watch our demo video on YouTube:
+
+[![Demo Video](http://img.youtube.com/vi/U3Ds2H3q8cQ/0.jpg)](http://www.youtube.com/watch?v=U3Ds2H3q8cQ "Project Demo")
+
 
 ## Features
 
